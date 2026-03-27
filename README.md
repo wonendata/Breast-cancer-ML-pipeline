@@ -57,7 +57,7 @@ This pipeline provided the clean, validated dataset used in the subsequent compa
 
 ## 📝 Author
 Jamila Hanif
-- MSc Data Analytics (Merit, 65%)
+- MSc Data Analytics 
 - This work was completed as part of a Master's dissertation.
 
 ## 📄 License
